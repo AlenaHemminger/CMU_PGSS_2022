@@ -16,3 +16,14 @@ fell behind and did not finish
 
 7/1/2022
 Actually kept on track today
+ran reading code from google drive in python and r
+*mount google drive -> pandas -> link (PY)
+got sklearn and anaconda
+analyzed data in different plots and ran linear analysis including logistic regression and linear regression
+used sklearn for linear regression
+Lots of scatter plots and boxplots
+https://github.com/menonpg/CMU_PGSS_2022/tree/main/Week01
+https://archive.ics.uci.edu/ml/datasets.php
+https://datasetsearch.research.google.com/
+that one dude in my row is rlly good at this
+FIND A DATASET (SUCH AS IRIS OR SEATBELTSTUDY) TO PREP FOR NEXT CLASS
