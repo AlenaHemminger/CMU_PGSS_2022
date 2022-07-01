@@ -14,3 +14,5 @@ R
 im entirely too confused. copy and pasted what he did and it didn't run
 fell behind and did not finish
 
+7/1/2022
+Actually kept on track today
