@@ -1,7 +1,7 @@
 7/12/2022
 What we know
 python 
-- setup (local, colab, rstudion.cloud, vscode, github)
+-setup (local, colab, rstudion.cloud, vscode, github)
 -r and python (scripting, markdowns or notebooks)
 knowledge
 -tabular data analysis
@@ -11,6 +11,8 @@ knowledge
 -analysis for linerar classification and linear regression
 -basic stats
 -text data classification
+-transformers
+-knowledge distillation 
 
 new from 7/12/22
 knoledge areas
@@ -24,3 +26,12 @@ dev environment/ skills
 -save and load models for web api/ app deployment
 -containerization/ ci/cd
 -infrastructure as code
+-++ low code
+  -eva
+  -model building
+  
+new libraries
+-h2o
+-pycaret
+-streamlit
+-docker
