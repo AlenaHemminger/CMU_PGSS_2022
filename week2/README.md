@@ -20,6 +20,7 @@ knoledge areas
 -id signal analysis
 -unsupervised eda
   -dimensionality reduction and projection
+-++ synthetic data generation
 dev environment/ skills
 -representation (telling data stories)
   -dev apps
