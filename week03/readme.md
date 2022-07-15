@@ -36,3 +36,9 @@ new libraries
 -pycaret
 -streamlit
 -docker
+
+7/15/2022
+low code/ no code development
+-learning from images using teachable machine (google)
+-learning from images using lobe.ai (microsoft)
+review concepts
