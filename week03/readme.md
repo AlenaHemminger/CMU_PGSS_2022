@@ -41,4 +41,4 @@ new libraries
 low code/ no code development
 -learning from images using teachable machine (google)
 -learning from images using lobe.ai (microsoft)
-review concepts
+was on zoom, was not able to follow. chromie does not like this
